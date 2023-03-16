@@ -28,6 +28,7 @@ public class Zmienne {
         boolean sun = false; //true
 
         // https://github.com/przemjan/czwartabgr12023
+        // Tworzenie i testowanie programów i aplikacji.
 
     }
 }
